@@ -22,39 +22,7 @@ This is a fun Android Dice Roll game built using Jetpack Compose. The game simul
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Abhi95081/Dice_Roll_Games.git
-
-
-Here’s the README.md for your Dice Roll Game project:
-
-markdown
-Copy
-Edit
-# Dice Roll Game
-
-This is a fun Android Dice Roll game built using Jetpack Compose. The game simulates rolling a dice with animated rotations and plays a sound when the dice is rolled. The dice rotates alternately in clockwise and counterclockwise directions, providing a dynamic 3D effect with each roll.
-
-## Features
-
-- **Smooth Dice Rotation**: Dice rotates alternately in clockwise and counterclockwise directions for a dynamic 3D effect.
-- **Random Dice Result**: Each time the dice is rolled, one of the six faces is randomly chosen to be displayed.
-- **Sound Effect**: A dice roll sound effect is played when the dice is rolled.
-- **Simple and Interactive UI**: A button that triggers the dice roll and displays the result with an animation.
-
-## Requirements
-
-- Android Studio with support for Kotlin.
-- Jetpack Compose (latest stable version).
-- Android SDK (API 21+ recommended).
-
-## Getting Started
-
-### 1. Clone the repository
-
-To get started, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/dicerollgames.git
+git clone(https://github.com/Abhi95081/Dice_Roll_Games).git
 2. Open the project in Android Studio
 Open Android Studio and select Open an existing project.
 Navigate to the cloned project directory and open it.
@@ -88,7 +56,8 @@ MediaPlayer: For playing the dice roll sound effect (dice_roll.mp3).
 Material3: For Material Design components and theming.
 Screenshots
 Here are some screenshots of the Dice Roll Game:
-![WhatsApp Image 2025-01-26 at 16 39 09_44b2a87b](https://github.com/user-attachments/assets/1d8191f9-f3c0-425d-b466-d3ff66f3bafb)
+![WhatsApp Image 2025-01-26 at 16 39 09_76dd72d4](https://github.com/user-attachments/assets/cbc3cde6-e530-4489-8691-6a8338b5b685)
+
 
 
 Contributing
@@ -122,8 +91,8 @@ Enjoy the game! 🎲
 - **Acknowledgements**: Credits for the libraries and tools used.
 
 ### How to Use:
-- Replace **https://github.com/yourusername/dicerollgames.git** with the actual URL of your repository.
-- If you have screenshots, add them under the "Screenshots" section.
+- Replace **https://github.com/Abhi95081/Dice_Roll_Games.git** with the actual URL of your repository.
+![WhatsApp Image 2025-01-26 at 16 39 09_76dd72d4](https://github.com/user-attachments/assets/5b4c177f-44ad-4f06-aab7-f83cafdfcd47)
 
 This `README.md` provides a comprehensive guide to your project, explaining its features, structure, and how to set it up and contribute.
 
