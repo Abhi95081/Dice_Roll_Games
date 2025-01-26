@@ -86,7 +86,7 @@ Enjoy the game! 🎲
 - **How the Dice Game Works**: Explains the logic behind the dice roll and animation, along with random result selection.
 - **Libraries Used**: Lists the libraries used in the project.
 - **Contributing**: How others can contribute to the project.
-- **Screenshots**: Placeholder for screenshots (you can replace this with actual images).
+- **Screenshots**:![WhatsApp Image 2025-01-26 at 16 39 09_76dd72d4](https://github.com/user-attachments/assets/457cb142-3ba5-4547-a917-0dcc80e49ee6)
 - **License**: Licensing information (e.g., MIT License).
 - **Acknowledgements**: Credits for the libraries and tools used.
 
