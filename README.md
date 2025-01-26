@@ -1,6 +1,7 @@
 # Dice Roll Game
 
 This is a fun Android Dice Roll game built using Jetpack Compose. The game simulates rolling a dice with animated rotations and plays a sound when the dice is rolled. The dice rotates alternately in clockwise and counterclockwise directions, providing a dynamic 3D effect with each roll.
+![WhatsApp Image 2025-01-26 at 16 39 09_76dd72d4](https://github.com/user-attachments/assets/405db58c-fd03-4737-9dd3-2f71c60c28da)
 
 ## Features
 
